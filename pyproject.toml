@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "folder2prompt-cli"
-version = "0.1.0"  # Update version as needed
+version = "0.1.1"  # Update version as needed
 authors = [
 { name = "James Kim", email = "hashd2035@gmail.com" }
 ]
@@ -18,12 +18,12 @@ classifiers = [
 ]
 
 dependencies = [
- "set-immediate-shim",
+
 ]
 
 [project.scripts]
 folder2prompt = "folder2prompt_cli.main:main"
 
 [project.urls]
-"Homepage" = "https://github.com/abinthomasonline/folder2prompt"
-"Bug Tracker" = "https://github.com/abinthomasonline/folder2prompt/issues"
+"Homepage" = "https://github.com/hashd2035/folder2prompt"
+"Bug Tracker" = "https://github.com/hashd2035/folder2prompt/issues"
