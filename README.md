@@ -90,3 +90,10 @@ File: <path-to-file>
 ## Contributing
 Feel free to submit pull requests or open issues if you find bugs or want to add improvements.
 
+## To Do 
+- [ ] Use an option to use an ignore file to exclude directories
+- [ ] `--watch` option to produce output, then, watch for file changes and reflect changes in output
+- [ ] Shorter and default options
+
+
+
