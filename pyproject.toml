@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "folder2prompt-cli"
-version = "0.1.1"  # Update version as needed
+version = "0.1.2"  # Update version as needed
 authors = [
 { name = "James Kim", email = "hashd2035@gmail.com" }
 ]
